@@ -16,5 +16,5 @@
 
 ## 📫 Contact
 - ✉️ Email: ahankhahfaezeh@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/faezeh-ahankhah](www.linkedin.com/in/faezeh-ahankhah)  
+- 🌐 LinkedIn: [linkedin.com/in/faezeh-ahankhah](https://linkedin.com/in/faezeh-ahankhah)  
 - 🌐 GitHub: [https://github.com/faezeh-ahankhah](https://github.com/faezehahankhah)
