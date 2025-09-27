@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Faezeh Ahankhah 👋
 
-<!--
-**faezehahankhah/faezehahankhah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Computer Engineering (AI)  
+💡 Researcher in Quantum Machine Learning and EEG Sleep Stage Classification  
+💻 Python | TensorFlow | TensorFlow Quantum | Cirq | MNE  
+📊 Machine Learning | Deep Learning | Quantum Neural Networks  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+1. **SleepStage-CNN-QNN** – Hybrid CNN-Quantum Neural Network for automatic sleep stage classification.  
+2. **DeepSleepNet Replication** – EEG-based sleep stage classification using deep learning.  
+3. **ML Mini Projects** – Data preprocessing, ML pipelines, Python automation scripts.
+
+---
+
+## 📫 Contact
+- ✉️ Email: ahankhahfaezeh@gmail.com  
+- 🌐 LinkedIn: [linkedin.com/in/faezeh-ahankhah](www.linkedin.com/in/faezeh-ahankhah)  
+- 🌐 GitHub: ([https://github.com/faezeh-ahankhah](https://github.com/faezehahankhah)
