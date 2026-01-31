@@ -1,15 +1,9 @@
 # Hi, I'm Faezeh Ahankhah 👋
 
 🎓 MSc in Computer Engineering (AI)  
-💡 Researcher in Quantum Machine Learning and EEG Sleep Stage Classification  
-💻 Python | TensorFlow | TensorFlow Quantum | Cirq | MNE  | Scikit-learn  
+💡 Researcher in Quantum Machine Learning
+💻 Python
 📊 Machine Learning | Deep Learning | Quantum Neural Networks  
-
----
-
-## 🛠 Projects
-1. **SleepStage-CNN-QNN** – Hybrid CNN-Quantum Neural Network for automatic sleep stage classification.  
-2. **DeepSleepNet Replication** – EEG-based sleep stage classification using deep learning.  
 
 ---
 
