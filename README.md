@@ -1,8 +1,10 @@
 # Hi, I'm Faezeh Ahankhah 👋
 
-🎓 MSc in Computer Engineering (AI)  
+🎓 MSc in Computer Engineering (AI)
 💡 Researcher in Quantum Machine Learning
+
 💻 Python
+
 📊 Machine Learning | Deep Learning | Quantum Neural Networks  
 
 ---
